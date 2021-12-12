@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ToDoList/app/src/main/res/drawable/ic_calendar_symbol.xml" value="0.290625" />
-        <entry key="..\:/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.1527777777777778" />
+        <entry key="..\:/ToDoList/app/src/main/res/drawable/ic_clock.xml" value="0.1" />
+        <entry key="..\:/ToDoList/app/src/main/res/drawable/ic_playlist_add.xml" value="0.15989583333333332" />
+        <entry key="..\:/ToDoList/app/src/main/res/layout/activity_history.xml" value="0.12588652482269502" />
+        <entry key="..\:/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/ToDoList/app/src/main/res/layout/activity_task.xml" value="0.264" />
         <entry key="..\:/ToDoList/app/src/main/res/menu/main_menu.xml" value="0.264" />
       </map>
